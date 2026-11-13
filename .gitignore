@@ -1,0 +1,26 @@
+
+# Ignore copied files
+run - Copy.bat
+Visal_ZLT_Password_Genarator - Copy.py
+
+# Ignore generated executable directory
+Visal_ZLT_Password_Genarator.exe/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
